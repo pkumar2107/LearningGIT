@@ -17,7 +17,7 @@ insert c;
 
 Opportunity opp= new Opportunity(); opp.Name='Test Opportunity';
 
-//Date d= Date.newinstance(); opp.CloseDate=d; opp.StageName='Closed Lost';
+//comment by priyanka Date d= Date.newinstance(); opp.CloseDate=d; opp.StageName='Closed Lost';
 
 opp.Accountid=a.id;
 
